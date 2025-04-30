@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "628767079914",
+    "project_id": "pril123",
+    "storage_bucket": "pril123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628767079914:android:50e447211c0dc1cef58693",
+        "android_client_info": {
+          "package_name": "com.example.liniya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjqGwZ8BF6sU3__gyl4BlkDuajM-QZSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628767079914:android:2772ec5d7116bd31f58693",
+        "android_client_info": {
+          "package_name": "com.example.pril123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjqGwZ8BF6sU3__gyl4BlkDuajM-QZSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  "type": "service_account",
+  "project_id": "pril123",
+  "private_key_id": "7ab669e2cd1b871ef682a57a131acaffd6d41346",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGJP24SfU2sdG/\n3XkIXxOnlCLrO4BEaQ+Pl7+gSAG/mx/G3E2nTPWw7OezTw5DvZxkPkiEH77yHGuu\n0+znsRubOAvaT2rd8Kkrjmq52WW4Rbz8QOFr4n8Nrf0BJ8WaPgGrtNL687wTNWL0\n4IsARt65chksIrEwXVZTM1ptOithddbpwgAUW2CQKwjA12///7fQRnEbKKXcczKV\nTtBcAMgjqPNn+NTl8B/Jzq9glQmcisgY0WHUIt3PG2AZtzr916zYMwQM4OvTlfZo\nArkdEi/5F6TbEvi7/WegBjz2F93Aa/U4plFteYhqn/n2eGzSq3+TiSXf0CUC+iDv\nkLuIoqkrAgMBAAECggEAOOdEqhkrP9LfXs92w82yMk0bnhyPYJYfbuhwktI7FlCx\nVoXME0DJyk6u19LbUN7yO+ObJb6MMrGwxxt7jKpTOEdnOAHYufY0TxruUYM6cCou\n9O6ZDkeUn1QZNay7Vel6x1n9wS4gFBAf5B1cLe8sZWt8CS3JXw9fDDPSQ04SSUFx\ntrtfovXxxjd/95J7OeWxmFkLpXUWaRHiM1yb1LMESGqxcULeFxLMoBkBI0EX/eL8\nAvfuRwKUZDGMHQRmd8hgJ7e9WtzzMH1XRXjdVOo5WvNqo+IbjtH/EUJ9TFtoC3VZ\nHIaMcJ3HQmUTvff1+9JeEHXlw9mJb7ZHuTAG3tSNKQKBgQDtOwmQODC9jz0es1bK\nRKxsaxp4O+rRanCIQnzyMh2fKmzjIfyIyodFU7omEhrfkfwrIxt9fpaKmtyyPZ+8\nErVqZpPHBkl1idms4GMuqe1j2Zn1o+MKAxB1ESvORx6FERQtyXFw2u+QkLtsH8Kj\nqPbnBFYYbosJmqKZrf/+xUQGDQKBgQDV0km9giDOZCoghu789/2Ypyw3kdLTejxK\n50JWtmH4WtCAkhjetVfM/zER3Ym/omiAj1EV33IG+AtCkw58GbVnq7eEQ5CCxL5D\nQwp7JpXIuF1wqBzwODQ1gLMkh0Y37v59KBLYjwbVqtpkQd6NFisfsiSeLtWi3WO1\nrDv7y8UWFwKBgQDdRkj4TYEg/t9KqIrWpdGSWyBYb8LqTHbkkefLXPWGReNExKmx\nyf78qkkiQ5bvXFKyxc9Zcd7nL+WVF6fLnEO9GCrU5EdWrBruhmnc18FGdmyF07Ts\n3MjX+Qk8IdgU1EZXIuN+GaiE1osLImDBmNObzc6kgU+MyMDLyaHTOJrnbQKBgEIh\nOJc44MaUagcHVHC+jhshUOaa3hZzzqPn5DeHTsON6sBo7vIqKc6H+ngpCUpQg3uH\nV6+pHM4U9v6PFsLA/L7kd+ybLN2U1bddy6cM5vReON/3zoNpDpShikY45Dm2W9T/\niNybV6TLo6GwUZFXEt1JrlOR7pbhW847R433lqvfAoGBAOXj4q2xfLr3EGgda1/w\nTKSs/Aract/fYWMVdtskBoERL+/GMbUAVBdtyiOHKItoTNosvY/fQM4qcJwYqny+\nx/h09ymizEhPl3kfFAzETyRs4tv5V2vIegYE3fMj4ZM2xRK8npRCytmLCoGGjBty\nYzKtO11KeDg85InsoWHNxxn0\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@pril123.iam.gserviceaccount.com",
+  "client_id": "114928699930508975545",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40pril123.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

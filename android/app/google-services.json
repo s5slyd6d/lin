@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628767079914",
+    "project_id": "pril123",
+    "storage_bucket": "pril123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628767079914:android:50e447211c0dc1cef58693",
+        "android_client_info": {
+          "package_name": "com.example.liniya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjqGwZ8BF6sU3__gyl4BlkDuajM-QZSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628767079914:android:2772ec5d7116bd31f58693",
+        "android_client_info": {
+          "package_name": "com.example.liniya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzjqGwZ8BF6sU3__gyl4BlkDuajM-QZSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
